@@ -1,0 +1,14 @@
+{
+  "name": "imovies-cinema-system",
+  "version": "1.0.0",
+  "description": "IMovies Full-Stack Cinema Ticket Booking Platform",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "start": "cd server && npm start"
+  },
+  "keywords": ["mern", "movie-booking", "cinema", "socket-io", "react", "express", "mongodb"],
+  "author": "IMovies Dev Team",
+  "license": "MIT"
+}
