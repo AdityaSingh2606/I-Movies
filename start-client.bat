@@ -1,4 +1,4 @@
 @echo off
 title IMovies Frontend
-cd client
+cd /d "%~dp0client"
 npm run dev

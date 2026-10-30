@@ -1,4 +1,4 @@
 @echo off
 title IMovies API Server
-cd server
+cd /d "%~dp0server"
 npm run dev
